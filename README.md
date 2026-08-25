@@ -1,4 +1,4 @@
-# Global Workforce Demographics & Payroll Cost Analysis Dashboard
+# Global Workforce Demographics & Payroll Cost Analysis
 
 An interactive Excel dashboard analyzing employee demographics, payroll distribution, and hiring trends across three countries for **Forms & Styles Group,** built using Power Query and Pivot Tables.
 
@@ -20,6 +20,9 @@ An interactive Excel dashboard analyzing employee demographics, payroll distribu
 ## Project Overview
 
 This project simulates a real-world HR analytics scenario for a fictional company, **Forms & Styles Group**, operating across three countries: the United States, China, and Brazil. Using a workforce dataset of 1,000 employees, the goal was to design an interactive Excel dashboard that gives stakeholders a fast, visual read on headcount, payroll distribution, demographic composition, and hiring momentum, without needing to dig through raw spreadsheet data.
+
+<img width="864" height="486" alt="Screenshot 2026-08-25 025008" src="https://github.com/user-attachments/assets/76ad77bc-a2da-4dff-914f-2189005526bb" />
+
 
 ## Data Sources
 
